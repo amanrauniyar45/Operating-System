@@ -6,6 +6,7 @@
 ### Program: B.Tech CSE CORE
 ---
 ## Project Overview 
+
 This project simulates Linux process management using Python. It replicates key operating system behaviors such as process creation, command execution, zombie/orphan process scenarios, process inspection via /proc, and process prioritization with nice values.
 ---
 ## Assignment Objectives
