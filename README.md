@@ -16,6 +16,8 @@ This projects simulates Linux process management
 * Demonstrate the impact of process priority on scheduling.
 ---
 ## Tasks Implemented  
+This project simulates Linux process management using Python. It replicates key operating system behaviors such as process creation, command execution, zombie/orphan process scenarios, process inspection via /proc, and process prioritization with nice values.
+
 
 1. **Process Creation Utility**  
    Creates N child processes using `os.fork()`. Each child prints its PID and parent PID, followed by a custom message. The parent waits for all children to finish.  
