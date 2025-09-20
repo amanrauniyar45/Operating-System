@@ -9,11 +9,11 @@
 ### This project simulates Linux process management using Python. It replicates key operating system behaviors such as process creation, command execution, zombie/orphan process scenarios, process inspection via /proc, and process prioritization with nice values.
 ---
 ## Assignment Objectives
-### * Understand Linux process lifecycle and management.
-### * Create child processes and execute system commands programmatically.
-### * Simulate and observe zombie and orphan processes.
-### * Inspect and extract process information from the /proc filesystem.
-### * Demonstrate the impact of process priority on scheduling.
+*Understand Linux process lifecycle and management.
+* Create child processes and execute system commands programmatically.
+* Simulate and observe zombie and orphan processes.
+* Inspect and extract process information from the /proc filesystem.
+* Demonstrate the impact of process priority on scheduling.
 ---
 ## Tasks Implemented
 **1.Process Creation Utility
